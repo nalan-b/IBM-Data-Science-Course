@@ -1,1 +1,1 @@
-# IBM-Data-Science-Course
+# IBM-Python for Data Science, AI & Development
